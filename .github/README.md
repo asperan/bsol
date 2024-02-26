@@ -6,6 +6,9 @@ Own this grub theme. Make it the first thing you see...
 
 ![preview image](preview.png)
 
+# Changes from upstream
+* Use Hack font rather than Victor Mono
+
 # How to Install
 
 > :warning: **Make sure you understand what you are doing. Installation of the theme can cause problems in your system if done incorrectly**
@@ -45,5 +48,6 @@ sudo update-grub
 
 - [This amazing guide](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
 - [y0uCeF](https://github.com/y0uCeF) for helping with the AUR package
-- [harishnkr](https://github.com/harishnkr/bsol) for the base code
+- [harishnkr](https://github.com/harishnkr/bsol) for the base theme
+- [source-foundry](https://github.com/source-foundry/Hack) for the font
 
