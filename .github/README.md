@@ -1,6 +1,6 @@
 # Blue Screen of Life
 
-Embrace the Blue Screen. 
+Embrace the Blue Screen.
 
 Own this grub theme. Make it the first thing you see...
 
@@ -8,16 +8,11 @@ Own this grub theme. Make it the first thing you see...
 
 # How to Install
 
-> :warning: **Make sure you understand what you are doing. Installation of the theme can cause problems in your system if done incorrectly** 
-
-## Using Package manager
-
-If you use Arch linux or derivatives, use this [package](https://aur.archlinux.org/packages/grub-theme-bsol-git)
-run `grub-install --themes=bsol` followed by `grub-mkconfig -o /boot/grub/grub.cfg"` both with `sudo` privileges.
+> :warning: **Make sure you understand what you are doing. Installation of the theme can cause problems in your system if done incorrectly**
 
 ## Manual Installation
 
-- Clone the repo 
+- Clone the repo
 
 ```
 git clone https://github.com/harishnkr/bsol.git
@@ -50,3 +45,5 @@ sudo update-grub
 
 - [This amazing guide](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
 - [y0uCeF](https://github.com/y0uCeF) for helping with the AUR package
+- [harishnkr](https://github.com/harishnkr/bsol) for the base code
+
